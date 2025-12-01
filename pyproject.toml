@@ -25,4 +25,5 @@ dependencies = [
     "zep-cloud>=3.4.3",
     "zep-crewai>=1.1.1",
     "pip>=25.3",
+    "edge-tts>=7.2.3",
 ]
