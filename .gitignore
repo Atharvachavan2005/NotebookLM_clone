@@ -1,13 +1,26 @@
-# Python-generated files
+# Python
 __pycache__/
 *.py[oc]
 build/
 dist/
-wheels/
 *.egg-info
+.venv/
 
-# Virtual environments
-.venv
+# Environment
 .env
-.db
+
+# Data
+data/*.db
+data/*.db.lock
+*.db
+*.db.lock
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Lock files
 uv.lock
