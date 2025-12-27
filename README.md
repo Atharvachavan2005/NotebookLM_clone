@@ -2,7 +2,7 @@
 
 Transform your documents into conversations. Turn your research into a show.
 
-KnowledgeCast is an AI-powered knowledge management platform that ingests multiple data sources and enables intelligent Q&A with citations, plus automatic podcast generation.
+KnowledgeCast is an AI-powered knowledge management platform that ingests multiple data sources and enables intelligent Q&A with citations, plus automatic podcast generation.. .
 
 ## Features
 
